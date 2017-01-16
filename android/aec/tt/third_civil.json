@@ -1,0 +1,242 @@
+{
+  "details": "details string",
+  "semester": "semester string",
+  "branch": "branch string",
+  "year": "year string",
+  "timetable": [
+    {
+      "day": [
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        }
+      ]
+    },
+    {
+      "day": [
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        }
+      ]
+    },
+    {
+      "day": [
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        }
+      ]
+    },
+    {
+      "day": [
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        }
+      ]
+    },
+    {
+      "day": [
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        }
+      ]
+    },
+    {
+      "day": [
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        },
+        {
+          "period": "period string",
+          "subject_name": "subject_name",
+          "time": "time",
+          "teacher": "teacher string",
+          "room": "room string"
+        }
+      ]
+    }
+  ]
+}
