@@ -1,0 +1,117 @@
+{
+  "session": "",
+  "academic_calendar": [
+    {
+      "date": "1 January",
+      "holiday": "Even Semester classes start"
+    },
+    {
+      "date": "5-8 January",
+      "holiday": "Form fill-up: Even semester compt. Examination"
+    },
+    {
+      "date": "14-17 January",
+      "holiday": "Magh Bihu vacation"
+    },
+    {
+      "date": "21-24 January",
+      "holiday": "College Week"
+    },
+    {
+      "date": "25 January",
+      "holiday": "College foundation day"
+    },
+    {
+      "date": "16 Feb-16 March",
+      "holiday": "Even semester compartmental examination"
+    },
+    {
+      "date": "17, 18,19 March",
+      "holiday": "Pyrokinesis"
+    },
+    {
+      "date": "28-30 March",
+      "holiday": "Mid semester examination"
+    },
+    {
+      "date": "13-16 April",
+      "holiday": "Bohag Bihu vacation"
+    },
+    {
+      "date": "6 May",
+      "holiday": "Submission of ‘clearance’ to the office"
+    },
+    {
+      "date": "9-13 May",
+      "holiday": "Form fill-up: Even semester regular examination"
+    },
+    {
+      "date": "13 May",
+      "holiday": "Even semester classes end"
+    },
+    {
+      "date": "14-24 May",
+      "holiday": "Laboratory examinations"
+    },
+    {
+      "date": "27 May-14 June",
+      "holiday": "Even semester regular examination"
+    },
+    {
+      "date": "15 June-18 June",
+      "holiday": "Final year project submission and Viva-voce examination"
+    },
+    {
+      "date": "20 June-19 July",
+      "holiday": "Summer Vacation"
+    },
+    {
+      "date": "21-26 July",
+      "holiday": "College admission for BE 3rd, 5th, 7th and PG students"
+    },
+    {
+      "date": "28 July-2 August",
+      "holiday": "Form fill-up: Odd semester compt. Examination"
+    },
+    {
+      "date": "18 Aug-20 Sept",
+      "holiday": "Odd semester compt.  Examination"
+    },
+    {
+      "date": "26-29 Sept",
+      "holiday": "Mid semester examination"
+    },
+    {
+      "date": "8-12 Oct",
+      "holiday": "Puja vacation"
+    },
+    {
+      "date": "5 Nov",
+      "holiday": "Submission of ‘clearance’ to the office"
+    },
+    {
+      "date": "7-11 Nov",
+      "holiday": "Form fill-up: Odd semester regular examination"
+    },
+    {
+      "date": "12 Nov",
+      "holiday": "Odd semester classes end"
+    },
+    {
+      "date": "15-19 Nov",
+      "holiday": "Laboratory examination"
+    },
+    {
+      "date": "23 Nov-10 Dec",
+      "holiday": "Odd semester regular examination"
+    },
+    {
+      "date": "12-14 Dec",
+      "holiday": "7th semester project submission and viva-voce examination"
+    },
+    {
+      "date": "15 Dec-31 Dec",
+      "holiday": "Winter break"
+    }
+  ]
+}
