@@ -1,0 +1,269 @@
+{
+  "details": "2nd Jan,2017",
+  "semester": "2nd Semester",
+  "branch": "EE/IE",
+  "year": "2017",
+  "timetable": [
+    {
+      "day": "Monday",
+      "periods": [
+        {
+          "period": "",
+          "subject_name": "BEE (D)",
+          "time": "8 am",
+          "teacher": "DD",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "BEE (B)",
+          "time": "9:15 am",
+          "teacher": "RS",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "-",
+          "time": "10:10 am",
+          "teacher": "-",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "BEE (A/C/E)",
+          "time": "11:05 am",
+          "teacher": "BDR/PP/DKM",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Tueday",
+      "periods": [
+        {
+          "period": "",
+          "subject_name": "BEE (B/E)",
+          "time": "8 am",
+          "teacher": "RS/DKM",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "BEE (C/D)",
+          "time": "9:15 am",
+          "teacher": "PP/DD",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "BEE (A)",
+          "time": "10:10 am",
+          "teacher": "BDR",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "periods": [
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "BEE (A/E)",
+          "time": "9:15 am",
+          "teacher": "BDR/DKM",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "BEE (B)",
+          "time": "10:10 am",
+          "teacher": "RS",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "BEE (D)",
+          "time": "11:05 am",
+          "teacher": "DD",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "BEE (A/C)",
+          "time": "8 am",
+          "teacher": "BDR/PP",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "periods": [
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "BEE (E)",
+          "time": "9:15 am",
+          "teacher": "DKM",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "BEE (D)",
+          "time": "10:10 am",
+          "teacher": "DD",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "BEE (B)",
+          "time": "11:05 am",
+          "teacher": "RS",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "periods": [
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "BEE (C)",
+          "time": "10:10 am",
+          "teacher": "PP",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,56 +1,71 @@
 {
   "bus_calendar": {
-    "session": "22nd Nov '16",
+    "session": "20th July '16",
     "weekdays": [
       {
-        "cf": "8 AM",
-        "aec": "8:40 AM",
-        "comments": "Highway"
-      },
-      {
-        "cf": "8 AM",
-        "aec": "8:40 AM",
-        "comments": "Chandmari"
-      },
-      {
-        "cf": "8 AM",
-        "aec": "8:40",
-        "comments": "P. Bazar"
-      },
-      {
-        "cf": "9:40 AM",
-        "aec": "10:20 AM",
+        "cf": "7:10 AM",
+        "aec": "7:50 AM",
         "comments": ""
       },
       {
-        "cf": "10:30 AM",
-        "aec": "12:50 PM",
-        "comments": "Highway"
+        "cf": "7:10 AM",
+        "aec": "7:50 AM",
+        "comments": ""
+      },
+      {
+        "cf": "7:10 AM",
+        "aec": "7:50 AM",
+        "comments": ""
+      },
+      {
+        "cf": "8:40 AM",
+        "aec": "9:20 AM",
+        "comments": ""
+      },
+      {
+        "cf": "9:20 AM",
+        "aec": "10 AM",
+        "comments": ""
+      },
+      {
+        "cf": "10 AM",
+        "aec": "10:40 AM",
+        "comments": ""
+      },
+      {
+        "cf": "10:40 AM",
+        "aec": "11:10 AM",
+        "comments": ""
       },
       {
         "cf": "11 AM",
-        "aec": "12:50 PM",
-        "comments": "City"
+        "aec": "12:30 PM",
+        "comments": "Highway"
       },
       {
-        "cf": "12 PM",
+        "cf": "11:40 AM",
+        "aec": "12:30 PM",
+        "comments": ""
+      },
+      {
+        "cf": "1 PM",
         "aec": "1:50 PM",
         "comments": ""
       },
       {
-        "cf": "2:10 PM",
+        "cf": "2 PM",
         "aec": "3 PM",
         "comments": ""
       },
       {
-        "cf": "2:50 PM",
-        "aec": "3:30 PM",
-        "comments": ""
+        "cf": "2:40 PM",
+        "aec": ":3:30 PM",
+        "comments": "Highway"
       },
       {
         "cf": "3:20 PM",
         "aec": "4 PM",
-        "comments": "Highway"
+        "comments": ""
       },
       {
         "cf": "4:20 PM",
@@ -73,8 +88,8 @@
         "comments": ""
       },
       {
-        "cf": "7:20 PM",
-        "aec": "8 PM",
+        "cf": "7:30 PM",
+        "aec": "8:10 PM",
         "comments": ""
       },
       {
@@ -90,7 +105,7 @@
     ],
     "holidays": [
       {
-        "cf": "7:15 AM",
+        "cf": "7:10 AM",
         "aec": "7:50 AM",
         "comments": ""
       },
@@ -126,7 +141,7 @@
       },
       {
         "cf": "8 PM",
-        "aec": "8:40",
+        "aec": "8:40 PM",
         "comments": ""
       }
     ]
