@@ -8,7 +8,7 @@
       "day": "Monday",
       "periods": [
         {
-          "period": "",
+          "period": "1st Period",
           "subject_name": "BEE (D)",
           "time": "8 am",
           "teacher": "DD",
@@ -22,10 +22,10 @@
           "room": ""
         },
         {
-          "period": "3rd Period",
-          "subject_name": "-",
-          "time": "10:10 am",
-          "teacher": "-",
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
           "room": ""
         },
         {
@@ -34,35 +34,14 @@
           "time": "11:05 am",
           "teacher": "BDR/PP/DKM",
           "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
         }
       ]
     },
     {
-      "day": "Tueday",
+      "day": "Tuesday",
       "periods": [
         {
-          "period": "",
+          "period": "1st Period",
           "subject_name": "BEE (B/E)",
           "time": "8 am",
           "teacher": "RS/DKM",
@@ -80,34 +59,6 @@
           "subject_name": "BEE (A)",
           "time": "10:10 am",
           "teacher": "BDR",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
           "room": ""
         }
       ]
@@ -141,13 +92,6 @@
           "subject_name": "BEE (D)",
           "time": "11:05 am",
           "teacher": "DD",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
           "room": ""
         }
       ]
@@ -194,27 +138,6 @@
           "time": "11:05 am",
           "teacher": "RS",
           "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
         }
       ]
     },
@@ -240,27 +163,6 @@
           "subject_name": "BEE (C)",
           "time": "10:10 am",
           "teacher": "PP",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
-          "room": ""
-        },
-        {
-          "period": "",
-          "subject_name": "",
-          "time": "",
-          "teacher": "",
           "room": ""
         }
       ]
