@@ -9,14 +9,14 @@
       "periods": [
         {
           "period": "1st Period",
-          "subject_name": "Micro Wave/DBMS",
+          "subject_name": "MW/DBMS",
           "time": "8 am ",
           "teacher": "RM/AK",
           "room": ""
         },
         {
           "period": "2nd Period",
-          "subject_name": "Micro Processor & ES/-",
+          "subject_name": "MP & ES/-",
           "time": "9:15 am",
           "teacher": "ECH & JG",
           "room": ""
