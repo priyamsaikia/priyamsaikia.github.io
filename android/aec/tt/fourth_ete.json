@@ -1,6 +1,6 @@
 {
   "details": "2nd Jan,2017",
-  "semester": "6th Semester",
+  "semester": "8th Semester",
   "branch": "ETE/CSE",
   "year": "2017",
   "timetable": [
@@ -9,30 +9,30 @@
       "periods": [
         {
           "period": "1st Period",
-          "subject_name": "MW/DBMS",
+          "subject_name": "",
           "time": "8 am ",
-          "teacher": "RM/AK",
+          "teacher": "",
           "room": ""
         },
         {
           "period": "2nd Period",
-          "subject_name": "MP & ES",
+          "subject_name": "OC/MC",
           "time": "9:15 am",
-          "teacher": "ECH & JG",
+          "teacher": "AJS/DT",
           "room": ""
         },
         {
           "period": "3rd Period",
-          "subject_name": "CCN",
+          "subject_name": "AWP/DS",
           "time": "10:10 am",
-          "teacher": "MJR/RK2",
+          "teacher": "KB/AK",
           "room": ""
         },
         {
           "period": "4th Period",
-          "subject_name": "DC/DCIT",
+          "subject_name": "DIP/ M&S",
           "time": "11 am",
-          "teacher": "NS",
+          "teacher": "SB/ PB",
           "room": ""
         },
         {
@@ -44,8 +44,15 @@
         },
         {
           "period": "5th Period",
-          "subject_name": "DC-I Lab | MP & ES-II Lab",
+          "subject_name": "DSD",
           "time": "1:30 pm",
+          "teacher": "AKK & SCH",
+          "room": ""
+        },
+        {
+          "period": "6th Period",
+          "subject_name": "PROJECT",
+          "time": "2:25 pm",
           "teacher": "",
           "room": ""
         }
@@ -56,30 +63,30 @@
       "periods": [
         {
           "period": "1st Period",
-          "subject_name": "DS/DBMS",
+          "subject_name": "",
           "time": "8 am ",
-          "teacher": "MPB/AK",
+          "teacher": "",
           "room": ""
         },
         {
           "period": "2nd Period",
-          "subject_name": "EMF/OS",
+          "subject_name": "DIP/-",
           "time": "9:15 am",
-          "teacher": "KB/PB",
+          "teacher": "SB/-",
           "room": ""
         },
         {
           "period": "3rd Period",
-          "subject_name": "MW/CG",
+          "subject_name": "VLSI/MC",
           "time": "10:10 am",
-          "teacher": "RM/RK1",
+          "teacher": "BG/ DT",
           "room": ""
         },
         {
           "period": "4th Period",
-          "subject_name": "MP&ES",
+          "subject_name": "AWP /M&S",
           "time": "11 am",
-          "teacher": "SCH & JG",
+          "teacher": "KB/ PB",
           "room": ""
         },
         {
@@ -91,9 +98,9 @@
         },
         {
           "period": "5th Period",
-          "subject_name": "MW-I Lab | MP & ES-II Lab/ DCIT Lab",
+          "subject_name": "Project/ PCD",
           "time": "1:30 pm",
-          "teacher": "",
+          "teacher": "-/GK",
           "room": ""
         }
       ]
@@ -103,30 +110,30 @@
       "periods": [
         {
           "period": "1st Period",
-          "subject_name": "DS/CG",
+          "subject_name": "",
           "time": "8 am ",
-          "teacher": "MPB/RK1",
+          "teacher": "",
           "room": ""
         },
         {
           "period": "2nd Period",
-          "subject_name": "CCN",
+          "subject_name": "-/DS",
           "time": "9:15 am",
-          "teacher": "RK2",
+          "teacher": "-/AK",
           "room": ""
         },
         {
           "period": "3rd Period",
-          "subject_name": "EMF/OS",
+          "subject_name": "VLSI/PCD",
           "time": "10:10 am",
-          "teacher": "KB/PB",
+          "teacher": "BG/ GK",
           "room": ""
         },
         {
           "period": "4th Period",
-          "subject_name": "DC/DCIT",
+          "subject_name": "DSD",
           "time": "11 am",
-          "teacher": "NS",
+          "teacher": "AKK & SCH",
           "room": ""
         },
         {
@@ -138,7 +145,7 @@
         },
         {
           "period": "5th Period",
-          "subject_name": "DC-II Lab | MP & ES-I Lab / CG Lab",
+          "subject_name": "PROJECT/PROJECT",
           "time": "1:30 pm",
           "teacher": "",
           "room": ""
@@ -150,30 +157,30 @@
       "periods": [
         {
           "period": "1st Period",
-          "subject_name": "DS/DBMS",
+          "subject_name": "OC/-",
           "time": "8 am ",
-          "teacher": "MPB/AK",
+          "teacher": "AJS/-",
           "room": ""
         },
         {
           "period": "2nd Period",
-          "subject_name": "EMF/OS",
+          "subject_name": "-/MC",
           "time": "9:15 am",
-          "teacher": "KB/PB",
+          "teacher": "-/DT",
           "room": ""
         },
         {
           "period": "3rd Period",
-          "subject_name": "CCN",
+          "subject_name": "VLSI/DS",
           "time": "10:10 am",
-          "teacher": "RK2",
+          "teacher": "BG/AK",
           "room": ""
         },
         {
           "period": "4th Period",
-          "subject_name": "MP & ES",
+          "subject_name": "AWP/ PCD",
           "time": "11 am",
-          "teacher": "SCH & JG",
+          "teacher": "KB/ GK",
           "room": ""
         },
         {
@@ -185,8 +192,15 @@
         },
         {
           "period": "5th Period",
-          "subject_name": "MW-II Lab | DS-I Lab / MP & ES Lab",
+          "subject_name": "DSD",
           "time": "1:30 pm",
+          "teacher": "AKK & SCH",
+          "room": ""
+        },
+        {
+          "period": "6th Period",
+          "subject_name": "PROJECT/PROJECT",
+          "time": "2:25pm",
           "teacher": "",
           "room": ""
         }
@@ -197,30 +211,30 @@
       "periods": [
         {
           "period": "1st Period",
-          "subject_name": "MW/DBMS",
+          "subject_name": "",
           "time": "8 am ",
-          "teacher": "RM/AK",
+          "teacher": "",
           "room": ""
         },
         {
           "period": "2nd Period",
-          "subject_name": "MP&ES",
+          "subject_name": "DIP/ MC",
           "time": "9:15 am",
-          "teacher": "SCH & ES",
+          "teacher": "SB/ DT",
           "room": ""
         },
         {
           "period": "3rd Period",
-          "subject_name": "EMF/CG",
+          "subject_name": "OC/ M&S",
           "time": "10:10 am",
-          "teacher": "KB/RK1",
+          "teacher": "AJS /PB",
           "room": ""
         },
         {
           "period": "4th Period",
-          "subject_name": "DC/DCIT",
+          "subject_name": "DSD",
           "time": "11 am",
-          "teacher": "NS",
+          "teacher": "AKK & SCH",
           "room": ""
         },
         {
@@ -232,7 +246,7 @@
         },
         {
           "period": "5th Period",
-          "subject_name": "-/DBMS Lab",
+          "subject_name": "PROJECT/PROJECT",
           "time": "1:30 pm",
           "teacher": "",
           "room": ""
@@ -244,30 +258,30 @@
       "periods": [
         {
           "period": "1st Period",
-          "subject_name": "DS/OS",
+          "subject_name": "OC/-",
           "time": "8 am ",
-          "teacher": "MP/PB",
+          "teacher": "AJS/-",
           "room": ""
         },
         {
           "period": "2nd Period",
-          "subject_name": "CCN/CG",
+          "subject_name": "AWP/ DS",
           "time": "9:15 am",
-          "teacher": "MJR/RK1",
+          "teacher": "KB/ AK",
           "room": ""
         },
         {
           "period": "3rd Period",
-          "subject_name": "MW/CCN",
+          "subject_name": "VLSI/ M&S",
           "time": "10:10 am",
-          "teacher": "RM/RK2",
+          "teacher": "BG /PB",
           "room": ""
         },
         {
           "period": "4th Period",
-          "subject_name": "DC/DCIT",
+          "subject_name": "DIP/-",
           "time": "11 am",
-          "teacher": "NS",
+          "teacher": "SB/-",
           "room": ""
         }
       ]
