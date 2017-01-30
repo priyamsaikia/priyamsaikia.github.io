@@ -14,8 +14,8 @@
       },
       {
         "cf": "7:10 AM",
-        "aec": "7:50 AM",
-        "comments": ""
+        "aec": "8:40 AM",
+        "comments": "Reaches at 7:40 am but leaves at 8:40"
       },
       {
         "cf": "8:40 AM",
@@ -34,7 +34,7 @@
       },
       {
         "cf": "10:40 AM",
-        "aec": "11:10 AM",
+        "aec": "12:10 PM",
         "comments": ""
       },
       {
@@ -59,7 +59,7 @@
       },
       {
         "cf": "2:40 PM",
-        "aec": ":3:30 PM",
+        "aec": "3:30 PM",
         "comments": "Highway"
       },
       {

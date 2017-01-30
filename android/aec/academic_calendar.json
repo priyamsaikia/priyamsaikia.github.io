@@ -1,16 +1,16 @@
 {
-  "session": "2016",
+  "session": "2017",
   "academic_calendar": [
     {
-      "date": "1 January",
+      "date": "2 January",
       "holiday": "Even Semester classes start"
     },
     {
-      "date": "5-8 January",
+      "date": "4-7 January",
       "holiday": "Form fill-up: Even semester compt. Examination"
     },
     {
-      "date": "14-17 January",
+      "date": "13-16 January",
       "holiday": "Magh Bihu vacation"
     },
     {
@@ -22,27 +22,39 @@
       "holiday": "College foundation day"
     },
     {
-      "date": "16 Feb-16 March",
-      "holiday": "Even semester compartmental examination"
+      "date": "27-30 February",
+      "holiday": "Class Test - I"
     },
     {
-      "date": "17, 18,19 March",
+      "date": "15-18 February",
       "holiday": "Pyrokinesis"
     },
     {
-      "date": "28-30 March",
-      "holiday": "Mid semester examination"
+      "date": "21-25 February",
+      "holiday": "Even Semester Comp. Exams"
+    },
+    {
+      "date": "27-29 March",
+      "holiday": "Class Test - II"
     },
     {
       "date": "13-16 April",
       "holiday": "Bohag Bihu vacation"
     },
     {
-      "date": "6 May",
-      "holiday": "Submission of ‘clearance’ to the office"
+      "date": "25 April",
+      "holiday": "Last Day of Comp. Exams"
     },
     {
-      "date": "9-13 May",
+      "date": "28-29 April",
+      "holiday": "Class Test - III"
+    },
+    {
+      "date": "6 May",
+      "holiday": "Submission of Clearance"
+    },
+    {
+      "date": "8-13 May",
       "holiday": "Form fill-up: Even semester regular examination"
     },
     {
@@ -50,68 +62,92 @@
       "holiday": "Even semester classes end"
     },
     {
-      "date": "14-24 May",
+      "date": "15-24 May",
       "holiday": "Laboratory examinations"
     },
     {
-      "date": "27 May-14 June",
+      "date": "26 May-13 June",
       "holiday": "Even semester regular examination"
     },
     {
-      "date": "15 June-18 June",
+      "date": "16 June-17 June",
       "holiday": "Final year project submission and Viva-voce examination"
     },
     {
       "date": "20 June-19 July",
-      "holiday": "Summer Vacation"
+      "holiday": "Summer Vacation/Seminar, Workshop, COnference, etc.."
     },
     {
-      "date": "21-26 July",
+      "date": "15 July",
+      "holiday": "Last day of Evem Sem Exams"
+    },
+    {
+      "date": "20 July",
+      "holiday": "Odd Semester Classes Start"
+    },
+    {
+      "date": "20, 21, 24, 25 July",
       "holiday": "College admission for BE 3rd, 5th, 7th and PG students"
     },
     {
-      "date": "28 July-2 August",
+      "date": "27-29 July",
       "holiday": "Form fill-up: Odd semester compt. Examination"
     },
     {
-      "date": "18 Aug-20 Sept",
+      "date": "11, 12 Aug",
+      "holiday": "Class Test - I"
+    },
+    {
+      "date": "18 Aug, 20 Sept",
       "holiday": "Odd semester compt.  Examination"
     },
     {
-      "date": "26-29 Sept",
-      "holiday": "Mid semester examination"
+      "date": "22-23 Sept",
+      "holiday": "Class Test - II"
     },
     {
-      "date": "8-12 Oct",
+      "date": "26-30 Sept",
       "holiday": "Puja vacation"
     },
     {
-      "date": "5 Nov",
-      "holiday": "Submission of ‘clearance’ to the office"
+      "date": "16, 17 Oct",
+      "holiday": "Class Test - III"
     },
     {
-      "date": "7-11 Nov",
+      "date": "23 Oct",
+      "holiday": "Last date of Comp. Exam"
+    },
+    {
+      "date": "3 Nov",
+      "holiday": "Submission of clearance to the office"
+    },
+    {
+      "date": "6-10 Nov",
       "holiday": "Form fill-up: Odd semester regular examination"
     },
     {
-      "date": "12 Nov",
+      "date": "11 Nov",
       "holiday": "Odd semester classes end"
     },
     {
-      "date": "15-19 Nov",
+      "date": "13-18 Nov",
       "holiday": "Laboratory examination"
     },
     {
-      "date": "23 Nov-10 Dec",
+      "date": "22 Nov-11 Dec",
       "holiday": "Odd semester regular examination"
     },
     {
-      "date": "12-14 Dec",
+      "date": "13-14 Dec",
       "holiday": "7th semester project submission and viva-voce examination"
     },
     {
       "date": "15 Dec-31 Dec",
-      "holiday": "Winter break"
+      "holiday": "Winter break, Workshops, etc."
+    },
+    {
+      "date": "12 January 2018",
+      "holiday": "Last date for odd semester regular exam."
     }
   ]
 }
