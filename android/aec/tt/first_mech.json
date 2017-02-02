@@ -98,7 +98,7 @@
         },
         {
           "period": "6th Period",
-          "subject_name": "PH-B1/CH-B2/BEE-B3L",
+          "subject_name": "PH-B1/ CH-B2/ BEE-B3L",
           "time": "2:25 pm - 4:15pm",
           "teacher": "",
           "room": ""
@@ -171,7 +171,7 @@
         },
         {
           "period": "3rd Period",
-          "subject_name": "PH-B2/CH-B3/BEE-B1L",
+          "subject_name": "PH-B2/ CH-B3/ BEE-B1L",
           "time": "10:10 am - 12 pm",
           "teacher": "",
           "room": ""
@@ -230,7 +230,7 @@
       "periods": [
         {
           "period": "1st Period",
-          "subject_name": "PH-B3/CH-B1/BEE-B2L",
+          "subject_name": "PH-B3/ CH-B1/ BEE-B2L",
           "time": "8 am - 9:50 am ",
           "teacher": "",
           "room": ""
