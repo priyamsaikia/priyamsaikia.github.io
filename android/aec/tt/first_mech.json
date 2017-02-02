@@ -1,0 +1,255 @@
+{
+  "details": "1st Jan,2017",
+  "semester": "1st Semester, Sec B",
+  "branch": "",
+  "year": "2017",
+  "timetable": [
+    {
+      "day": "Monday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "EM-1",
+          "time": "8 am ",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "BEEE",
+          "time": "8:55 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "PHY",
+          "time": "10:10 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "MATHS",
+          "time": "11:05 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "EM-1L",
+          "time": "1:30 pm - 4:15 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "BEEE",
+          "time": "8 am ",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "PHY",
+          "time": "8:55 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "MATHS",
+          "time": "10:10 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "SLG",
+          "time": "11:05 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "CHEM",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "6th Period",
+          "subject_name": "PH-B1/CH-B2/BEE-B3L",
+          "time": "2:25 pm - 4:15pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PHY",
+          "time": "8 am ",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "EM-1",
+          "time": "8:55 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "BEEE",
+          "time": "10:10 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "MATHS",
+          "time": "11:05 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "EG",
+          "time": "1:30 pm - 4:15 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "CHEM",
+          "time": "8 am ",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "EM-1",
+          "time": "8:55 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "PH-B2/CH-B3/BEE-B1L",
+          "time": "10:10 am - 12 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PHY",
+          "time": "8 am ",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "CHEM",
+          "time": "8:55 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "MATHS",
+          "time": "10:10 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "BEEE",
+          "time": "11:05 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "SLG",
+          "time": "1:30 pm - 2:25 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PH-B3/CH-B1/BEE-B2L",
+          "time": "8 am - 9:50 am ",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "CHEM",
+          "time": "10:10 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "EM-1",
+          "time": "11:05 am - 12pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    }
+  ]
+}
