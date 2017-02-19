@@ -1,0 +1,213 @@
+{
+  "details": "2017",
+  "semester": "8th Semester",
+  "branch": "ChE",
+  "year": "2017",
+  "timetable": [
+    {
+      "day": "Monday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PPT (III)",
+          "time": "8 am ",
+          "teacher": "UH",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "CPDD",
+          "time": "9:15 am - 11:05am",
+          "teacher": "KC",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "TP",
+          "time": "11:05 am",
+          "teacher": "RD",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "PROJECT/SEMINAR",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "AEC",
+          "time": "8 am ",
+          "teacher": "RB",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "AST",
+          "time": "9:15 am - 11:05 am",
+          "teacher": "DT",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "TP",
+          "time": "11:05 am",
+          "teacher": "RD",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "PROJECT/ SEMINAR",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "AST",
+          "time": "8 am ",
+          "teacher": "DT",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "AER",
+          "time": "9:15 am",
+          "teacher": "UH",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "CPDD",
+          "time": "10:10 am - 12pm",
+          "teacher": "KC",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "PROJECT/SEMINAR",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PPT",
+          "time": "8 am - 10:10 am ",
+          "teacher": "UH",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "TP",
+          "time": "10:10 am - 12pm",
+          "teacher": "RD",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "PROJECT/SEMINAR",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PPT - II",
+          "time": "8 am - 10:10 am ",
+          "teacher": "UH",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "AST",
+          "time": "10:10 am - 12pm",
+          "teacher": "BC",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "PROJECT/SEMINAR",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PROJECT",
+          "time": "8 am - 10:10 am",
+          "teacher": "AJS/-",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "AER",
+          "time": "10:10 AM - 12 pm",
+          "teacher": "UH/RB",
+          "room": ""
+        }
+      ]
+    }
+  ]
+}

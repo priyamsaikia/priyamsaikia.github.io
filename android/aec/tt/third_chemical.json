@@ -1,0 +1,219 @@
+{
+  "details": "2017",
+  "semester": "6th Semester",
+  "branch": "ChE",
+  "year": "2017",
+  "timetable": [
+    {
+      "day": "Monday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PDC",
+          "time": "8 am - 10:10 am ",
+          "teacher": "AKB",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "CRE - II",
+          "time": "10:10 am",
+          "teacher": "BC",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "HTO/MTO LAB",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PRP",
+          "time": "8 am - 10:10 am",
+          "teacher": "AB/RB",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "MTO - I",
+          "time": "10:10 am - 12 pm",
+          "teacher": "TJS",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "HTO/MTO LAB",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "HTO",
+          "time": "8 am ",
+          "teacher": "CD",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "MTO-I",
+          "time": "9:15 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "PEEO",
+          "time": "10:10 am -12 pm",
+          "teacher": "CD",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "HTO/MTO LAB",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PDC",
+          "time": "8 am - 10:10 am",
+          "teacher": "AKB",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "CRE - II",
+          "time": "10:10 am - 12 pm",
+          "teacher": "BC",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "PRP/PDC LAB",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PRP",
+          "time": "8 am ",
+          "teacher": "AB/RB",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "PEE0",
+          "time": "9:15 am",
+          "teacher": "CD",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "HTO",
+          "time": "10:10 am - 12 pm",
+          "teacher": "CD",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "PRP/PDC LAB",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PRP",
+          "time": "8 am ",
+          "teacher": "AB",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "MTO - I",
+          "time": "9:15 am",
+          "teacher": "TJS",
+          "room": ""
+        },{
+          "period": "3rd Period",
+          "subject_name": "PEEO",
+          "time": "10:10 am",
+          "teacher": "CD",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "HTO",
+          "time": "11:05 am",
+          "teacher": "CD",
+          "room": ""
+        }
+      ]
+    }
+  ]
+}

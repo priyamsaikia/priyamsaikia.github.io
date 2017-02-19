@@ -1,0 +1,276 @@
+{
+  "details": "2017",
+  "semester": "4th Semester",
+  "branch": "ChE",
+  "year": "2017",
+  "timetable": [
+    {
+      "day": "Monday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "Maths",
+          "time": "8 am ",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "ET - II",
+          "time": "9:15 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "FFO",
+          "time": "10:10 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "AFE",
+          "time": "11:05 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "ET - II LAB",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Tuesday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "ET - II",
+          "time": "8 am ",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "CPS",
+          "time": "9:15 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "EE",
+          "time": "10:10 am",
+          "teacher": "RB",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "FFO",
+          "time": "11:05 am",
+          "teacher": "DT",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "EE LAB",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Wednesday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "EE",
+          "time": "8 am ",
+          "teacher": "RB",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "Maths",
+          "time": "9:15 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "FFO",
+          "time": "10:10 am",
+          "teacher": "DT",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "AFE",
+          "time": "11:05 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "FFO LAB",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Thursday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "PC",
+          "time": "8 am ",
+          "teacher": "TJS",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "ET - II",
+          "time": "9:15 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "Maths",
+          "time": "10:10 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "FFO",
+          "time": "11:05 am",
+          "teacher": "DT",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "S & A",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "6th Period",
+          "subject_name": "EE LAB",
+          "time": "2:25pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Friday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "ET - II",
+          "time": "8 am ",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "CPS",
+          "time": "9:15 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "3rd Period",
+          "subject_name": "PC",
+          "time": "10:10 am - 12 pm",
+          "teacher": "TJS",
+          "room": ""
+        },
+        {
+          "period": "",
+          "subject_name": "",
+          "time": "",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "ET - II",
+          "time": "1:30 pm",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "5th Period",
+          "subject_name": "FFO LAB",
+          "time": "2:25 pm",
+          "teacher": "",
+          "room": ""
+        }
+      ]
+    },
+    {
+      "day": "Saturday",
+      "periods": [
+        {
+          "period": "1st Period",
+          "subject_name": "EE",
+          "time": "8 am - 10:10 am",
+          "teacher": "RB",
+          "room": ""
+        },
+        {
+          "period": "2nd Period",
+          "subject_name": "Maths",
+          "time": "10:10 am",
+          "teacher": "",
+          "room": ""
+        },
+        {
+          "period": "4th Period",
+          "subject_name": "PC",
+          "time": "11:05 am",
+          "teacher": "TJS",
+          "room": ""
+        }
+      ]
+    }
+  ]
+}
