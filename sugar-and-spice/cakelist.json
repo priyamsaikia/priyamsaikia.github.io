@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Chocolate with Strawberry",
+    "price": 2500,
+    "description": "Chocolate Cake layered with Strawberry compote and 55% dark chocolate ganache",
+    "category": "Chocolate Cakes",
+    "quantity": "1KG",
+    "image": "/sugar-and-spice/cake_stock_images/pexels-jana-ohajdova-11675763.jpg",
+    "Ingredients": [
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Vanilla"
+    ],
+    "Baker": {}
+  },
+  {
+    "id": 2,
+    "title": "Chocolate with Raspberry",
+    "price": 2500,
+    "description": "Chocolate Cake layered with Raspberry compote and 55% dark chocolate ganache",
+    "category": "Chocolate Cakes",
+    "quantity": "1KG",
+    "image": "/sugar-and-spice/cake_stock_images/pexels-aesthetics-life-16764269.jpg",
+    "Ingredients": [
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Vanilla"
+    ],
+    "Baker": {}
+  },
+  {
+    "id": 3,
+    "title": "Chocolate with Ferraro Rocher",
+    "price": 2500,
+    "description": "Chocolate Cake with Ferraro Rocher and Roasted Hazel Nut and 55% dark chocolate ganache",
+    "category": "Chocolate Cakes",
+    "quantity": "1KG",
+    "image": "/sugar-and-spice/cake_stock_images/pexels-alex-urezkov-9697976.jpg",
+    "Ingredients": [
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Vanilla"
+    ],
+    "Baker": {}
+  },
+  {
+    "id": 4,
+    "title": "Pistachio Cake with Raspberry",
+    "price": 2800,
+    "description": "Pistachio Cake layered with Raspberry Curd and lemon buttercream",
+    "category": "Speciality Cakes",
+    "quantity": "1KG",
+    "image": "/sugar-and-spice/cake_stock_images/pexels-nataliya-vaitkevich-5426071.jpg",
+    "Ingredients": [
+      "Eggs",
+      "Milk",
+      "Butter",
+      "Vanilla"
+    ],
+    "Baker": {}
+  }
+]
