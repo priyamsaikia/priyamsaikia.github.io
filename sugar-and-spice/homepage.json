@@ -6,7 +6,7 @@
     "description": "Chocolate Cake with Ferraro Rocher and Roasted Hazel Nut and 55% dark chocolate ganache",
     "category": "Chocolate Cakes",
     "quantity": "1KG",
-    "cakeType": "featured",
+    "cakeType": "cakeOfTheDay",
     "image": "https://priyamsaikia.github.io/sugar-and-spice/cake_stock_images/pexels-solodsha-9008989.jpg",
     "flavours": [
       {
